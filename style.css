@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f0f0; /* Cor de fundo clara */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.div.container {
+    text-align: center;
+    padding: 40px;
+    background-color: #ffffff; /* Fundo branco para o container */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #cc0000; /* Vermelho característico da Red Hat */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
